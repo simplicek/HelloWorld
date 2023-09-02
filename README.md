@@ -7,3 +7,6 @@ I'm doing my first steps toward Git and GitHub.
 
 ### My Hobbies
 One of my favorite things to do is reading.
+### My favorite books
+The compound effect by Darren Hardy
+The Slight Edge by Jeff Olson
