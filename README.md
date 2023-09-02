@@ -1,3 +1,4 @@
+![headshot](profile_photo_ska.jpeg)
 # A little insight into Simplicek
 Hi Everyone! My name is Simplice KAMLA and I'm the author of this repository. This README will give you a bit of information about me!
 
